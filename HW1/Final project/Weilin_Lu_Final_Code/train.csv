@@ -1,0 +1,251 @@
+status,qty_ordered,price,value,discount_amount,total,category,year,month,Name Prefix,Gender,age,full_name,Place Name,County,City,State,Zip,Region,Discount_Percent,payment_method,Method in number
+canceled,2,379.8,379.8,0,379.8,Women s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Grand Forks,Grand Forks,Grand Forks,ND,58201,Midwest,0,Paypal,0
+canceled,2,121.5,121.5,0,121.5,Women s Fashion,2020,20-Oct,Mr.,M,75,"Criss, Harrison",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,115.5,115.5,0,115.5,Women s Fashion,2020,20-Oct,Mr.,M,75,"Criss, Harrison",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+complete,2,121.5,121.5,0,121.5,Women s Fashion,2020,20-Oct,Mr.,M,75,"Criss, Harrison",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+complete,2,115.5,115.5,0,115.5,Women s Fashion,2020,20-Oct,Mr.,M,75,"Criss, Harrison",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+received,2,109.9,109.9,0,109.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Mill Springs,Wayne,Mill Springs,KY,42632,South,0,Paypal,0
+received,2,99.9,99.9,0,99.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brighton,Jersey,Brighton,IL,62012,Midwest,0,Paypal,0
+received,2,99.9,99.9,0,99.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,219.5,219.5,0,219.5,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,135,135,0,135,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,69.9,69.9,0,69.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,16.14230769,Paypal,0
+received,2,185,185,0,185,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,16.144,Paypal,0
+received,2,199.9,199.9,0,199.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,16.14,Paypal,0
+received,2,199.9,199.9,0,199.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,16.14070352,Paypal,0
+received,2,249.9,249.9,0,249.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,16.14210526,Paypal,0
+received,2,150,150,0,150,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,140,140,0,140,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,439.9,439.9,0,439.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,150,150,0,150,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,129.2,129.2,0,129.2,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,149.9,149.9,0,149.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,175.9,175.9,0,175.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,599.9,599.9,0,599.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,599.9,599.9,0,599.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,64.9,64.9,0,64.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,99.9,99.9,0,99.9,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,94.5,94.5,0,94.5,Women s Fashion,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+complete,2,125,125,12.5,112.5,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,4.19504644,Visa,1
+complete,2,140,140,14,126,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,4.195544554,Visa,1
+complete,2,140,140,14,126,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,16.16894977,Visa,1
+complete,2,99,99,9.9,89.1,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,16.16770964,Visa,1
+complete,2,125,125,12.5,112.5,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+canceled,3,125,250,25,225,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+order_refunded,1,112.5,0,0,0,Women s Fashion,2021,21-Apr,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,1,130,0,0,0,Women s Fashion,2021,21-Apr,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,3,138,276,27.6,248.4,Women s Fashion,2021,21-Apr,Mr.,M,64,"Blount, Lenny",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,2,135,135,13.5,121.5,Women s Fashion,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",Benton,Benton,Benton,AR,72019,South,0,Visa,1
+complete,2,59.9,59.9,5.99,53.91,Women s Fashion,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+canceled,2,140,140,14,126,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,125,125,12.5,112.5,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,135,135,17.15,117.85,Women s Fashion,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,59.9,59.9,7.61,52.29,Women s Fashion,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,109.8,109.8,0,109.8,Women s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,79.8,79.8,0,79.8,Women s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,1.320709428,Paypal,0
+received,2,79.8,79.8,0,79.8,Women s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,1.324137931,Paypal,0
+received,2,79.9,79.9,0,79.9,Women s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+canceled,2,140,140,0,140,Women s Fashion,2020,20-Oct,Mr.,M,65,"Simoneau, Jason",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,2,175,175,0,175,Women s Fashion,2020,20-Oct,Mr.,M,71,"Waymire, Abe",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+order_refunded,2,119.9,119.9,0,119.9,Women s Fashion,2020,20-Dec,Mr.,M,64,"Blount, Lenny",San Francisco,San Francisco,San Francisco,CA,94119,West,0,Paypal,0
+received,1,500,0,0,0,Women s Fashion,2020,20-Oct,Mr.,M,60,"Heyer, Darrin",Wisdom,Beaverhead,Wisdom,MT,59761,West,10,Paypal,0
+received,2,299,299,0,299,Women s Fashion,2020,20-Oct,Mr.,M,60,"Heyer, Darrin",Wisdom,Beaverhead,Wisdom,MT,59761,West,10,Paypal,0
+complete,2,234.8,234.8,0,234.8,Women s Fashion,2020,20-Oct,Mr.,M,60,"Crawley, Antione",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+complete,2,278.5,278.5,0,278.5,Women s Fashion,2020,20-Oct,Mr.,M,60,"Crawley, Antione",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+complete,2,239,239,0,239,Women s Fashion,2021,21-Mar,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+refund,2,209,209,0,209,Women s Fashion,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,49,49,0,49,Women s Fashion,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,9.335504775,Visa,1
+canceled,2,1149.5,1149.5,0,1149.5,Women s Fashion,2021,21-Sep,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,15,Visa,1
+complete,2,44.5,44.5,0,44.5,Women s Fashion,2020,20-Oct,Hon.,F,53,"Kenney, Pamella",Brasstown,Clay,Brasstown,NC,28902,South,9.855453351,Visa,1
+complete,2,44.5,44.5,0,44.5,Women s Fashion,2020,20-Oct,Hon.,F,53,"Kenney, Pamella",Brasstown,Clay,Brasstown,NC,28902,South,15.68489442,Visa,1
+complete,2,44.5,44.5,0,44.5,Women s Fashion,2020,20-Oct,Hon.,F,53,"Kenney, Pamella",Brasstown,Clay,Brasstown,NC,28902,South,15.68489442,Visa,1
+order_refunded,2,100,100,0,100,Women s Fashion,2020,20-Nov,Mr.,M,47,"Flanigan, Yong",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,47.9,47.9,4.79,43.11,Superstore,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,43.9,87.8,17.78,70.02,Superstore,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,43.9,43.9,5,38.9,Superstore,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,27.9,27.9,4.185,23.715,Superstore,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,99.9,99.9,14.985,84.915,Superstore,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,3,48,96,0,96,Superstore,2021,21-Mar,Mr.,M,52,"Nicastro, Emile",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+order_refunded,2,7,7,0,7,Superstore,2020,20-Oct,Mr.,M,64,"Blount, Lenny",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+order_refunded,2,7,7,0,7,Superstore,2020,20-Nov,Mr.,M,64,"Blount, Lenny",Ottawa Lake,Monroe,Ottawa Lake,MI,49267,Midwest,0,Paypal,0
+order_refunded,2,24.8,24.8,0,24.8,Superstore,2020,20-Dec,Dr.,M,38,"Hopps, Romeo",Odin,Watonwan,Odin,MN,56160,Midwest,0,Paypal,0
+order_refunded,2,27.8,27.8,0,27.8,Superstore,2020,20-Dec,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+complete,2,5.5,5.5,0,5.5,Superstore,2020,20-Nov,Mr.,M,42,"Pugh, Ward",Des Moines,Polk,Des Moines,IA,50315,Midwest,0,Visa,1
+order_refunded,3,44,88,0,88,Superstore,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,3,48,96,0,96,Superstore,2021,21-Mar,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,50.5,50.5,0,50.5,Superstore,2020,20-Oct,Dr.,M,32,"Gass, Leon",Brasstown,Clay,Brasstown,NC,28902,South,11.91530113,Visa,1
+complete,4,21.3,63.9,0,63.9,Soghaat,2020,20-Oct,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+complete,2,22.5,22.5,0,22.5,Soghaat,2020,20-Oct,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+canceled,3,15,30,0,30,Soghaat,2021,21-Feb,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,10,Paypal,0
+canceled,3,22.5,45,0,45,Soghaat,2021,21-Feb,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,10,Paypal,0
+received,2,43.8,43.8,7.082,36.718,Soghaat,2020,20-Oct,Dr.,M,38,"Hopps, Romeo",Odin,Watonwan,Odin,MN,56160,Midwest,0,Paypal,0
+received,2,22.5,22.5,0,22.5,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+received,2,23,23,0,23,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,25.88485607,Paypal,0
+order_refunded,2,22.5,22.5,0,22.5,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,25.88333333,Paypal,0
+order_refunded,2,23,23,0,23,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,22.5,22.5,0,22.5,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,23,23,0,23,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,22.5,22.5,0,22.5,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,3,23,46,0,46,Soghaat,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,12.90341312,Paypal,0
+canceled,2,300,300,0,300,Others,2020,20-Nov,Mr.,M,64,"Blount, Lenny",Drew,Sunflower,Drew,MS,38737,South,25.55366269,Visa,1
+canceled,2,49,49,0,49,Mobiles And Tablets,2020,20-Oct,Prof.,M,28,"Eaker, Lee",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,3139.2,3139.2,0,3139.2,Mobiles And Tablets,2020,20-Oct,Ms.,F,64,"Galle, Drema",Graham,Bradford,Graham,FL,32042,South,15.62255887,Paypal,0
+canceled,2,1000,1000,0,1000,Mobiles And Tablets,2020,20-Oct,Dr.,M,52,"Dewald, Bernard",Graham,Bradford,Graham,FL,32042,South,15.62256447,Paypal,0
+canceled,2,500,500,0,500,Mobiles And Tablets,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255887,Paypal,0
+canceled,2,959.9,959.9,0,959.9,Mobiles And Tablets,2020,20-Oct,Mr.,M,64,"Blount, Lenny",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,8,Paypal,0
+canceled,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,8,Paypal,0
+received,3,1279.9,2559.8,0,2559.8,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,8,Paypal,0
+received,2,1690,1690,0,1690,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+received,2,2637.5,2637.5,0,2637.5,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,2059.9,2059.9,0,2059.9,Mobiles And Tablets,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+order_refunded,2,540,540,0,540,Mobiles And Tablets,2020,20-Oct,Mr.,M,47,"Barnaby, Buster",Phoenix,Maricopa,Phoenix,AZ,85015,West,10,Paypal,0
+canceled,2,2360,2360,0,2360,Mobiles And Tablets,2020,20-Oct,Hon.,F,75,"Puls, Sherron",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+canceled,2,19.9,19.9,3.212,16.688,Mobiles And Tablets,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,19.9,19.9,0,19.9,Mobiles And Tablets,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,19.9,19.9,0,19.9,Mobiles And Tablets,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+complete,11,6.9,69,0,69,Mobiles And Tablets,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+canceled,1,2677,0,0,0,Mobiles And Tablets,2021,21-Mar,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,1,2939.9,0,0,0,Mobiles And Tablets,2021,21-Jul,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,1,2099.9,0,0,0,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,5,Visa,1
+canceled,11,9.9,99,0,99,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+complete,2,129.9,129.9,12.99,116.91,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,3,1369.8,2739.6,579.96,2159.64,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,3,129.9,259.8,25.98,233.82,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+canceled,1,7031.3,0,0,0,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+canceled,2,8177,8177,1100,7077,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,2,2845.7,2845.7,400,2445.7,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+canceled,2,8177,8177,1050,7127,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Huntington,Cabell,Huntington,WV,25714,South,0,Visa,1
+complete,2,1400,1400,203,1197,Mobiles And Tablets,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+order_refunded,2,99.9,99.9,0,99.9,Mobiles And Tablets,2021,21-Aug,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,129.9,259.8,25.98,233.82,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,1839.9,1839.9,183.99,1655.91,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,1894.6,1894.6,0,1894.6,Mobiles And Tablets,2021,21-Jan,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,1400,1400,240.854,1159.146,Mobiles And Tablets,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,1239.9,1239.9,150,1089.9,Mobiles And Tablets,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1499.9,1499.9,0,1499.9,Mobiles And Tablets,2020,20-Oct,Hon.,F,75,"Puls, Sherron",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+order_refunded,2,47.6,47.6,0,47.6,Mobiles And Tablets,2020,20-Nov,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,2,35,35,0,35,Mobiles And Tablets,2020,20-Oct,Mr.,M,31,"Brammer, Hilario",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,7.381303872,Paypal,0
+canceled,2,64.5,64.5,0,64.5,Mobiles And Tablets,2020,20-Oct,Mrs.,F,66,"Murguia, Rachell",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+received,2,19.9,19.9,0,19.9,Mobiles And Tablets,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,1,32.3,0,0,0,Mobiles And Tablets,2020,20-Oct,Dr.,M,38,"Hopps, Romeo",Waltersburg,Fayette,Waltersburg,PA,15488,Northeast,0,Paypal,0
+order_refunded,1,444.4,0,0,0,Mobiles And Tablets,2020,20-Oct,Dr.,M,38,"Hopps, Romeo",Clifton Forge,Clifton Forge,Clifton Forge,VA,24422,South,0,Paypal,0
+received,2,79.9,79.9,12.918,66.982,Mobiles And Tablets,2020,20-Oct,Dr.,M,38,"Hopps, Romeo",Odin,Watonwan,Odin,MN,56160,Midwest,0,Paypal,0
+received,2,959.9,959.9,110,849.9,Mobiles And Tablets,2020,20-Oct,Mr.,M,60,"Heyer, Darrin",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+received,1,2350,0,0,0,Mobiles And Tablets,2020,20-Oct,Mr.,M,60,"Heyer, Darrin",Wisdom,Beaverhead,Wisdom,MT,59761,West,11.38952164,Paypal,0
+order_refunded,2,111,111,0,111,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,15,Visa,1
+complete,2,499.9,499.9,0,499.9,Mobiles And Tablets,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,15,Visa,1
+canceled,2,6979.2,6979.2,0,6979.2,Mobiles And Tablets,2021,21-Jan,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,6979.2,6979.2,0,6979.2,Mobiles And Tablets,2021,21-Jan,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,3,161.5,323,0,323,Mobiles And Tablets,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,12.23809524,Visa,1
+order_refunded,2,7031.3,7031.3,0,7031.3,Mobiles And Tablets,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+complete,1,161.5,0,0,0,Mobiles And Tablets,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,7031.3,7031.3,0,7031.3,Mobiles And Tablets,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,2677,2677,0,2677,Mobiles And Tablets,2021,21-Mar,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,2677,2677,0,2677,Mobiles And Tablets,2021,21-Mar,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,232.5,232.5,0,232.5,Mobiles And Tablets,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+refund,2,49.9,49.9,0,49.9,Mobiles And Tablets,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+refund,2,232.5,232.5,0,232.5,Mobiles And Tablets,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,3989.9,3989.9,0,3989.9,Mobiles And Tablets,2021,21-Jun,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,19.9,19.9,0,19.9,Mobiles And Tablets,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ogunquit,York,Ogunquit,ME,3907,Northeast,0,Visa,1
+order_refunded,2,2938,2938,0,2938,Mobiles And Tablets,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,12.70450751,Visa,1
+order_refunded,2,2929.9,2929.9,0,2929.9,Mobiles And Tablets,2021,21-Jul,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,17.20385714,Visa,1
+refund,1,1749.9,0,0,0,Mobiles And Tablets,2021,21-Jul,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,18.37436686,Visa,1
+order_refunded,2,232.5,232.5,0,232.5,Mobiles And Tablets,2021,21-Aug,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,10,Visa,1
+received,2,15,15,0,15,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,10,Visa,1
+received,2,2099.9,2099.9,0,2099.9,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,15.67043822,Visa,1
+order_refunded,2,2099.9,2099.9,0,2099.9,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,14.5,Visa,1
+order_refunded,2,15,15,0,15,Mobiles And Tablets,2021,21-Sep,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,15,Visa,1
+refund,2,1260,1260,0,1260,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,1260,1260,0,1260,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,1400,1400,0,1400,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,1260,1260,0,1260,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,1260,1260,0,1260,Mobiles And Tablets,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+order_refunded,2,499.9,499.9,0,499.9,Mobiles And Tablets,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+order_refunded,3,54,108,0,108,Mobiles And Tablets,2020,20-Oct,Hon.,M,67,"Cyphers, Horacio",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+canceled,2,244.5,244.5,0,244.5,Mobiles And Tablets,2020,20-Oct,Ms.,F,44,"Gendron, Daniell",Brasstown,Clay,Brasstown,NC,28902,South,15.40108022,Visa,1
+order_refunded,2,244.5,244.5,0,244.5,Mobiles And Tablets,2020,20-Oct,Ms.,F,44,"Gendron, Daniell",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,3140,3140,0,3140,Mobiles And Tablets,2020,20-Oct,Mr.,M,47,"Flanigan, Yong",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+canceled,3,170,340,0,340,Men s Fashion,2020,20-Oct,Hon.,F,73,"Bensen, Albertina",Graham,Bradford,Graham,FL,32042,South,0,Paypal,0
+canceled,2,170,170,0,170,Men s Fashion,2020,20-Oct,Hon.,F,73,"Bensen, Albertina",Graham,Bradford,Graham,FL,32042,South,0,Paypal,0
+order_refunded,3,170,340,0,340,Men s Fashion,2020,20-Oct,Hon.,F,73,"Bensen, Albertina",Graham,Bradford,Graham,FL,32042,South,5.45553737,Paypal,0
+order_refunded,2,170,170,0,170,Men s Fashion,2020,20-Oct,Hon.,F,73,"Bensen, Albertina",Graham,Bradford,Graham,FL,32042,South,3.637024914,Paypal,0
+complete,3,265,530,0,530,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255887,Paypal,0
+complete,2,129,129,0,129,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255784,Paypal,0
+canceled,2,49.9,49.9,0,49.9,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62256447,Paypal,0
+canceled,2,35,35,0,35,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255887,Paypal,0
+canceled,4,35,105,0,105,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255784,Paypal,0
+complete,4,115,345,0,345,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62256447,Paypal,0
+canceled,2,160,160,0,160,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62255784,Paypal,0
+canceled,2,315,315,0,315,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,15.62256447,Paypal,0
+canceled,3,156,312,0,312,Men s Fashion,2020,20-Oct,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,20,Paypal,0
+canceled,2,156,156,0,156,Men s Fashion,2020,20-Nov,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,20,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,20,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Graham,Bradford,Graham,FL,32042,South,20,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Grand Forks,Grand Forks,Grand Forks,ND,58201,Midwest,0,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Grand Forks,Grand Forks,Grand Forks,ND,58201,Midwest,0,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Grand Forks,Grand Forks,Grand Forks,ND,58201,Midwest,0,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Grand Forks,Grand Forks,Grand Forks,ND,58201,Midwest,0,Paypal,0
+canceled,2,99.8,99.8,0,99.8,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,196,196,0,196,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,196,196,0,196,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,196,196,0,196,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,196,196,0,196,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,99.8,99.8,0,99.8,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,3,325,650,0,650,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,69.9,69.9,0,69.9,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,3,325,650,0,650,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,3,325,650,0,650,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,259.9,259.9,0,259.9,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Laupahoehoe,Hawaii,Laupahoehoe,HI,96764,West,0,Paypal,0
+canceled,2,325,325,0,325,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Glendo,Platte,Glendo,WY,82213,West,0,Paypal,0
+canceled,3,325,650,0,650,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Glendo,Platte,Glendo,WY,82213,West,0,Paypal,0
+canceled,2,196,196,0,196,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Glendo,Platte,Glendo,WY,82213,West,0,Paypal,0
+canceled,2,285,285,0,285,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Glendo,Platte,Glendo,WY,82213,West,0,Paypal,0
+canceled,2,285,285,0,285,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Farmington,Oconee,Farmington,GA,30638,South,0,Paypal,0
+canceled,2,285,285,0,285,Men s Fashion,2020,20-Dec,Ms.,F,71,"Raminez, Elizbeth",Nashville,Davidson,Nashville,TN,37245,South,0,Paypal,0
+canceled,2,299.9,299.9,0,299.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Nashville,Davidson,Nashville,TN,37245,South,0,Paypal,0
+canceled,2,299.9,299.9,0,299.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Warwick,Kent,Warwick,RI,2889,Northeast,0,Paypal,0
+canceled,2,299.9,299.9,0,299.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Warwick,Kent,Warwick,RI,2889,Northeast,0,Paypal,0
+canceled,2,299.9,299.9,0,299.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Sarasota,Sarasota,Sarasota,FL,34277,South,0,Paypal,0
+canceled,2,1600,1600,0,1600,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,59.9,59.9,0,59.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,274.9,274.9,0,274.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,39.9,39.9,0,39.9,Men s Fashion,2021,21-Jun,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,1,39.8,0,0,0,Men s Fashion,2021,21-Sep,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,1,99.9,0,0,0,Men s Fashion,2021,21-Sep,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,1,99.9,0,0,0,Men s Fashion,2021,21-Sep,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,1,99.9,0,0,0,Men s Fashion,2021,21-Sep,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,119.8,119.8,0,119.8,Men s Fashion,2021,21-Sep,Ms.,F,71,"Raminez, Elizbeth",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+received,2,29.9,29.9,0,29.9,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+received,2,28.8,28.8,0,28.8,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+received,2,71.5,71.5,0,71.5,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,25,25,4.036,20.964,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,30.76923077,Visa,1
+canceled,2,15,15,2.421,12.579,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,15,15,0,15,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,15,15,0,15,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Fort Smith,Sebastian,Fort Smith,AR,72913,South,0,Visa,1
+canceled,2,21.5,21.5,0,21.5,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+complete,2,22.5,22.5,0,22.5,Men s Fashion,2021,21-Feb,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,3,22.5,45,0,45,Men s Fashion,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+received,2,22.5,22.5,0,22.5,Men s Fashion,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+received,2,23,23,0,23,Men s Fashion,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+complete,9,25,200,0,200,Men s Fashion,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+canceled,2,79.9,79.9,11.985,67.915,Men s Fashion,2021,21-Jul,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,5,Visa,1
+refund,2,49.9,49.9,4.99,44.91,Men s Fashion,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1

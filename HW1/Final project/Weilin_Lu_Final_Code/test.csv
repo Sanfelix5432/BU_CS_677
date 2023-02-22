@@ -1,0 +1,251 @@
+status,qty_ordered,price,value,discount_amount,total,category,year,month,Name Prefix,Gender,age,full_name,Place Name,County,City,State,Zip,Region,Discount_Percent,payment_method,Method in number
+refund,2,44.9,44.9,4.49,40.41,Men s Fashion,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+refund,2,24.9,24.9,2.49,22.41,Men s Fashion,2020,20-Dec,Ms.,F,54,"Roach, Skye",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,2,24.9,24.9,2.49,22.41,Men s Fashion,2020,20-Dec,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,24.9,24.9,2.49,22.41,Men s Fashion,2020,20-Dec,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,129.9,129.9,12.99,116.91,Men s Fashion,2020,20-Dec,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,24.9,24.9,0,24.9,Men s Fashion,2021,21-Jul,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,24.9,24.9,0,24.9,Men s Fashion,2021,21-Jul,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,49.9,49.9,0,49.9,Men s Fashion,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,39.9,39.9,0,39.9,Men s Fashion,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,49.9,49.9,0,49.9,Men s Fashion,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,69.9,69.9,0,69.9,Men s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,69.9,69.9,0,69.9,Men s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,78,78,0,78,Men s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Saint Louis,St. Louis (city),Saint Louis,MO,63110,Midwest,4.255319149,Paypal,0
+complete,2,29.9,29.9,0,29.9,Men s Fashion,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Linton,Emmons,Linton,ND,58552,Midwest,0,Paypal,0
+canceled,2,22.5,22.5,0,22.5,Men s Fashion,2021,21-Mar,Mr.,M,52,"Nicastro, Emile",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+received,21,89.9,1798,0,1798,Men s Fashion,2020,20-Oct,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+received,11,19,190,0,190,Men s Fashion,2020,20-Oct,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,9,149.9,1199.2,0,1199.2,Men s Fashion,2020,20-Oct,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,9,79.9,639.2,0,639.2,Men s Fashion,2020,20-Oct,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+received,2,99.9,99.9,0,99.9,Men s Fashion,2020,20-Nov,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+received,2,39.9,39.9,0,39.9,Men s Fashion,2020,20-Nov,Drs.,F,43,"Titus, Jani",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,2,149.9,149.9,0,149.9,Men s Fashion,2020,20-Oct,Mrs.,F,75,"Newsome, Sheryll",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,2,29.9,29.9,0,29.9,Men s Fashion,2020,20-Oct,Mr.,M,43,"Dinapoli, Robbie",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+received,2,21.5,21.5,0,21.5,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+received,2,15,15,0,15,Men s Fashion,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+order_refunded,2,49.8,49.8,0,49.8,Men s Fashion,2020,20-Dec,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+received,2,59.9,59.9,0,59.9,Men s Fashion,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,59.9,59.9,0,59.9,Men s Fashion,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,59.9,59.9,0,59.9,Men s Fashion,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,59.9,59.9,0,59.9,Men s Fashion,2021,21-Jun,Dr.,M,38,"Hopps, Romeo",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+order_refunded,2,35,35,0,35,Men s Fashion,2020,20-Oct,Prof.,M,18,"Coutee, Micah",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+canceled,2,255.9,255.9,0,255.9,Men s Fashion,2021,21-Jan,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,12.84089519,Visa,1
+order_refunded,2,2184,2184,0,2184,Men s Fashion,2021,21-Mar,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+refund,2,76,76,0,76,Men s Fashion,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,16.01281025,Visa,1
+order_refunded,2,115,115,0,115,Men s Fashion,2020,20-Oct,Mrs.,F,29,"Fout, Lauren",Ducor,Tulare,Ducor,CA,93218,West,0,Visa,1
+complete,2,109.9,109.9,0,109.9,Men s Fashion,2020,20-Oct,Mr.,M,42,"Pugh, Ward",New Orleans,Orleans,New Orleans,LA,70128,South,0,Visa,1
+order_refunded,2,79.9,79.9,0,79.9,Men s Fashion,2020,20-Oct,Mr.,M,42,"Pugh, Ward",Bernalillo,Sandoval,Bernalillo,NM,87004,West,0,Visa,1
+order_refunded,2,79.9,79.9,0,79.9,Men s Fashion,2020,20-Oct,Mr.,M,42,"Pugh, Ward",Bernalillo,Sandoval,Bernalillo,NM,87004,West,0,Visa,1
+complete,2,94.9,94.9,0,94.9,Men s Fashion,2020,20-Nov,Mr.,M,42,"Pugh, Ward",Des Moines,Polk,Des Moines,IA,50315,Midwest,0,Visa,1
+complete,2,75,75,0,75,Men s Fashion,2020,20-Oct,Prof.,M,45,"Olin, Hector",Gulliver,Schoolcraft,Gulliver,MI,49840,Midwest,0,Visa,1
+complete,2,62.5,62.5,0,62.5,Men s Fashion,2020,20-Oct,Prof.,M,45,"Olin, Hector",Utica,Licking,Utica,OH,43080,Midwest,0,Visa,1
+complete,2,24.4,24.4,0,24.4,Men s Fashion,2020,20-Oct,Prof.,M,45,"Olin, Hector",Clarks Grove,Freeborn,Clarks Grove,MN,56016,Midwest,0,Visa,1
+received,2,29.9,29.9,0,29.9,Men s Fashion,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Inman,Spartanburg,Inman,SC,29349,South,0,Visa,1
+received,3,79.9,159.8,41.364,118.436,Men s Fashion,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Voltaire,McHenry,Voltaire,ND,58792,Midwest,0,Visa,1
+received,3,36,72,18.636,53.364,Men s Fashion,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+refund,2,0,0,0,0,Men s Fashion,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,3,19.9,39.8,0,39.8,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,49.9,49.9,0,49.9,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,154.9,154.9,0,154.9,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,3,23.8,47.6,0,47.6,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,12.5,12.5,0,12.5,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,19.9,19.9,0,19.9,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,154.9,154.9,0,154.9,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,36,36,0,36,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,124.9,124.9,20,104.9,Men s Fashion,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,22.5,22.5,0,22.5,Men s Fashion,2021,21-Mar,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,29.9,29.9,0,29.9,Men s Fashion,2020,20-Oct,Mr.,M,47,"Flanigan, Yong",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,2,126.4,126.4,0,126.4,Kids And Baby,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,2,350,350,0,350,Kids And Baby,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+order_refunded,2,220,220,0,220,Kids And Baby,2020,20-Oct,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+order_refunded,2,255,255,0,255,Kids And Baby,2020,20-Oct,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+complete,2,124.9,124.9,0,124.9,Kids And Baby,2020,20-Oct,Drs.,F,45,"Grantham, Heidy",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+canceled,2,14.5,14.5,0,14.5,Kids And Baby,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,9.901480271,Visa,1
+refund,1,14.5,0,0,0,Kids And Baby,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,15,Visa,1
+order_refunded,2,2900,2900,0,2900,Home And Living,2020,20-Oct,Dr.,M,52,"Dewald, Bernard",Graham,Bradford,Graham,FL,32042,South,15.62255784,Paypal,0
+received,11,39.9,399,0,399,Home And Living,2021,21-Jun,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+received,2,16.8,16.8,0,16.8,Home And Living,2021,21-Jul,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,55.9,55.9,0,55.9,Home And Living,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+canceled,2,69.8,69.8,10.90455,58.89545,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,69.8,69.8,10.90455,58.89545,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,21.1695138,Visa,1
+canceled,2,69.8,69.8,10.90455,58.89545,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,69.8,69.8,10.90455,58.89545,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+complete,3,69.8,139.6,27.92,111.68,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+complete,3,499.8,999.6,199.92,799.68,Home And Living,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+received,1,46,0,0,0,Home And Living,2020,20-Oct,Mr.,M,60,"Heyer, Darrin",Wisdom,Beaverhead,Wisdom,MT,59761,West,20.25056948,Paypal,0
+refund,2,15.3,15.3,0,15.3,Home And Living,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,17.6,17.6,0,17.6,Home And Living,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,0,Visa,1
+order_refunded,3,65,130,0,130,Home And Living,2020,20-Oct,Mr.,M,47,"Flanigan, Yong",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+order_refunded,3,65,130,0,130,Home And Living,2020,20-Nov,Mr.,M,47,"Flanigan, Yong",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+canceled,3,13,26,4.197,21.803,Health And Sports,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,38,38,6.134,31.866,Health And Sports,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,13,13,0,13,Health And Sports,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+complete,3,39.4,78.8,0,78.8,Health And Sports,2021,21-Feb,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,2,65,65,0,65,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+received,2,65,65,0,65,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+complete,4,65,195,60,135,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+complete,11,20,200,0,200,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+complete,2,75,75,0,75,Health And Sports,2020,20-Nov,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,65,130,0,130,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,65,130,0,130,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,65,130,0,130,Health And Sports,2021,21-Apr,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,62.5,62.5,0,62.5,Health And Sports,2021,21-Jul,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,49.9,49.9,4.99,44.91,Health And Sports,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,125.9,125.9,18.885,107.015,Health And Sports,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+received,2,13,13,0,13,Health And Sports,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+complete,2,25,25,0,25,Health And Sports,2020,20-Oct,Mr.,M,37,"Colombo, Marvin",Gulliver,Schoolcraft,Gulliver,MI,49840,Midwest,0,Visa,1
+received,2,36,36,0,36,Health And Sports,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",East Texas,Lehigh,East Texas,PA,18046,Northeast,0,Visa,1
+order_refunded,2,36,36,0,36,Health And Sports,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+Visa,2,51,51,0,51,Health And Sports,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+Visa,2,13,13,0,13,Health And Sports,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+Visa,2,38,38,0,38,Health And Sports,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,38.2,38.2,0,38.2,Health And Sports,2020,20-Nov,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,150,150,0,150,Health And Sports,2020,20-Oct,Mr.,M,32,"Vigue, Kelvin",Brasstown,Clay,Brasstown,NC,28902,South,1.074286942,Visa,1
+complete,2,60,60,0,60,Health And Sports,2020,20-Oct,Mr.,M,27,"Mattia, Arturo",Brasstown,Clay,Brasstown,NC,28902,South,9.63483958,Visa,1
+canceled,2,2812.5,2812.5,0,2812.5,Entertainment,2020,20-Nov,Mr.,M,64,"Blount, Lenny",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,1690,1690,0,1690,Entertainment,2020,20-Nov,Mr.,M,64,"Blount, Lenny",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+complete,2,1549.9,1549.9,199.99,1349.91,Entertainment,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Snyder,Dodge,Snyder,NE,68664,Midwest,0,Visa,1
+complete,1,2019.9,0,0,0,Entertainment,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,1,2739.6,0,0,0,Entertainment,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,1549.9,0,0,0,Entertainment,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,1689.9,1689.9,0,1689.9,Entertainment,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Saint Louis,St. Louis (city),Saint Louis,MO,63110,Midwest,11.45952703,Paypal,0
+complete,1,1549.9,0,0,0,Entertainment,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Linton,Emmons,Linton,ND,58552,Midwest,0,Paypal,0
+canceled,3,587,1174,300,874,Entertainment,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,3,56.8,113.6,0,113.6,Entertainment,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+order_refunded,2,3842,3842,0,3842,Entertainment,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,3.555530272,Visa,1
+canceled,2,1896,1896,0,1896,Entertainment,2020,20-Oct,Hon.,F,67,"Vuong, Gigi",New Orleans,Orleans,New Orleans,LA,70128,South,0,Visa,1
+canceled,2,135,135,0,135,Computing,2020,20-Oct,Prof.,M,28,"Eaker, Lee",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,1999.9,1999.9,0,1999.9,Computing,2021,21-Apr,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+order_refunded,2,315.2,315.2,0,315.2,Computing,2020,20-Oct,Mrs.,F,75,"Newsome, Sheryll",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,2,315.2,315.2,0,315.2,Computing,2020,20-Oct,Mrs.,F,75,"Newsome, Sheryll",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+canceled,2,5520,5520,0,5520,Computing,2020,20-Oct,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+canceled,2,1499.8,1499.8,0,1499.8,Computing,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,13.45236639,Visa,1
+canceled,2,1499.8,1499.8,0,1499.8,Computing,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,14.05629546,Visa,1
+refund,1,1499.8,0,0,0,Computing,2020,20-Dec,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,5729.2,5729.2,0,5729.2,Computing,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+refund,2,249.9,249.9,0,249.9,Computing,2021,21-Feb,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,5729.2,5729.2,0,5729.2,Computing,2021,21-Apr,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,904.2,904.2,0,904.2,Computing,2021,21-Apr,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,118.8,118.8,0,118.8,Computing,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+order_refunded,2,815.1,815.1,0,815.1,Computing,2021,21-May,Ms.,F,54,"Roach, Skye",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Visa,1
+canceled,2,611,611,0,611,Computing,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,12.7037037,Visa,1
+order_refunded,2,227.2,227.2,0,227.2,Computing,2021,21-Feb,Dr.,M,32,"Gass, Leon",Brasstown,Clay,Brasstown,NC,28902,South,6.00120024,Visa,1
+canceled,3,10,20,0,20,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,16,16,0,16,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,2,26,26,0,26,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Visa,1
+canceled,3,10,20,0,20,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,2,16,16,0,16,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,3,98.8,197.6,0,197.6,Beauty And Grooming,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Riverton,Burlington,Riverton,NJ,8076,Northeast,0,Visa,1
+canceled,3,98.8,197.6,0,197.6,Beauty And Grooming,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Huntington,Cabell,Huntington,WV,25714,South,0,Visa,1
+complete,3,39.683,79.366,12.437,66.929,Beauty And Grooming,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+complete,2,10,10,0,10,Beauty And Grooming,2020,20-Nov,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,3,39.683,79.366,14.583,64.783,Beauty And Grooming,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,10,10,0,10,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Newton,Newton,Newton,MS,39345,South,0,Paypal,0
+received,2,16,16,0,16,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+received,2,26,26,0,26,Beauty And Grooming,2020,20-Oct,Ms.,F,38,"Mayo, Lauran",Baytown,Harris,Baytown,TX,77522,South,0,Paypal,0
+complete,3,29.9,59.8,0,59.8,Beauty And Grooming,2021,21-Feb,Mr.,M,64,"Blount, Lenny",Waltersburg,Fayette,Waltersburg,PA,15488,Northeast,0,Paypal,0
+canceled,2,8,8,0,8,Beauty And Grooming,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+canceled,2,8,8,0,8,Beauty And Grooming,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Wisdom,Beaverhead,Wisdom,MT,59761,West,0,Paypal,0
+canceled,2,8,8,0,8,Beauty And Grooming,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Wisdom,Beaverhead,Wisdom,MT,59761,West,10,Paypal,0
+canceled,2,8,8,0,8,Beauty And Grooming,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Wisdom,Beaverhead,Wisdom,MT,59761,West,10,Paypal,0
+received,2,31.9,31.9,0,31.9,Beauty And Grooming,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Inman,Spartanburg,Inman,SC,29349,South,0,Visa,1
+received,2,29.9,29.9,0,29.9,Beauty And Grooming,2020,20-Oct,Mr.,M,52,"Nicastro, Emile",Voltaire,McHenry,Voltaire,ND,58792,Midwest,0,Visa,1
+received,2,21,21,0,21,Beauty And Grooming,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+received,3,36.6,73.2,0,73.2,Beauty And Grooming,2021,21-Feb,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+canceled,2,549.9,549.9,0,549.9,Appliances,2020,20-Oct,Prof.,M,28,"Eaker, Lee",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+order_refunded,1,549.9,0,0,0,Appliances,2020,20-Oct,Prof.,M,28,"Eaker, Lee",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,1099.9,1099.9,0,1099.9,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,1543.5,1543.5,0,1543.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,1543.5,1543.5,0,1543.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Vinson,Harmon,Vinson,OK,73571,South,0,Paypal,0
+canceled,2,1543.5,1543.5,0,1543.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Graham,Bradford,Graham,FL,32042,South,0,Paypal,0
+canceled,2,2625,2625,0,2625,Appliances,2021,21-Feb,Ms.,F,71,"Raminez, Elizbeth",Nashville,Davidson,Nashville,TN,37245,South,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+canceled,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,0,Paypal,0
+received,2,445,445,0,445,Appliances,2020,20-Oct,Mr.,M,46,"Henrich, Wallace",Brownstown,Fayette,Brownstown,IL,62418,Midwest,8,Paypal,0
+complete,4,198.9,596.7,0,596.7,Appliances,2020,20-Oct,Ms.,F,56,"Wetherby, Dorene",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+canceled,2,1474,1474,0,1474,Appliances,2020,20-Oct,Ms.,F,56,"Wetherby, Dorene",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+order_refunded,3,476.3,952.6,0,952.6,Appliances,2020,20-Oct,Mrs.,F,59,"Fabiano, Dreama",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+complete,4,299.9,899.7,0,899.7,Appliances,2020,20-Oct,Ms.,F,42,"Croom, Marge",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+complete,3,460,920,0,920,Appliances,2020,20-Oct,Ms.,F,42,"Croom, Marge",Phoenix,Maricopa,Phoenix,AZ,85015,West,0,Paypal,0
+received,3,200,400,82.714,317.286,Appliances,2021,21-Jun,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,12.09774982,Visa,1
+received,11,34,340,0,340,Appliances,2021,21-Jun,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,0,Visa,1
+canceled,11,87,870,0,870,Appliances,2021,21-Sep,Ms.,F,54,"Roach, Skye",Drew,Sunflower,Drew,MS,38737,South,10,Visa,1
+complete,2,1050,1050,128.5,921.5,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Huntington,Cabell,Huntington,WV,25714,South,0,Visa,1
+canceled,1,5894.7,0,0,0,Appliances,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",Huntington,Cabell,Huntington,WV,25714,South,0,Visa,1
+canceled,2,4531.5,4531.5,0,4531.5,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+order_refunded,2,4531.5,4531.5,0,4531.5,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+canceled,2,4999.9,4999.9,520,4479.9,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+canceled,1,4999.9,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+canceled,1,5421.1,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+canceled,2,49.9,49.9,7.245,42.655,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+complete,2,2312.5,2312.5,250,2062.5,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Visa,1
+complete,2,54.9,54.9,0,54.9,Appliances,2020,20-Nov,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+received,2,112,112,0,112,Appliances,2021,21-Jul,Ms.,F,38,"Mayo, Lauran",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,3,81.5,163,16.3,146.7,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,81.5,81.5,8.15,73.35,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,3,81.5,163,0,163,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,3000,3000,0,3000,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,1108.2,1108.2,173.82,934.38,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,1108.2,1108.2,173.82,934.38,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,499.9,499.9,76.99,422.91,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+complete,2,469.9,469.9,55.99,413.91,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,499.9,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,1861.7,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,5189.5,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,1399,1399,0,1399,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,2,1550,1550,0,1550,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,5421.1,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,5421.1,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,5189.5,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",El Monte,Los Angeles,El Monte,CA,91734,West,0,Paypal,0
+canceled,1,5189.5,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Saint Louis,St. Louis (city),Saint Louis,MO,63110,Midwest,5.493478261,Paypal,0
+canceled,1,5189.5,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Saint Louis,St. Louis (city),Saint Louis,MO,63110,Midwest,5.4946,Paypal,0
+canceled,1,5421.1,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Saint Louis,St. Louis (city),Saint Louis,MO,63110,Midwest,0,Paypal,0
+complete,2,49.9,49.9,5,44.9,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,1,459.9,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,1,459.9,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,1,549.9,0,0,0,Appliances,2020,20-Dec,Mr.,M,47,"Flanigan, Yong",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+canceled,2,254.8,254.8,39.80628,214.99372,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,315.5,315.5,49.28917,266.21083,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,254.8,254.8,39.80628,214.99372,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,315.5,315.5,49.28917,266.21083,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,254.8,254.8,39.80628,214.99372,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,315.5,315.5,49.28917,266.21083,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,10,Visa,1
+canceled,2,254.8,254.8,39.80628,214.99372,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,315.5,315.5,49.28917,266.21083,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+complete,3,254.8,509.6,101.92,407.68,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+complete,3,315.5,631,126.2,504.8,Appliances,2020,20-Dec,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,6.191950464,Visa,1
+canceled,2,1099.9,1099.9,0,1099.9,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1099.9,1099.9,0,1099.9,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1099.9,1099.9,0,1099.9,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1543.5,1543.5,0,1543.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1543.5,1543.5,0,1543.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,6.163615988,Visa,1
+canceled,2,483.5,483.5,0,483.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,483.5,483.5,0,483.5,Appliances,2020,20-Oct,Prof.,M,33,"Bayless, Grover",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,9,182,1456,0,1456,Appliances,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1999.5,1999.5,299.925,1699.575,Appliances,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,1999.5,1999.5,299.925,1699.575,Appliances,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,20.6785,Visa,1
+canceled,2,1999.5,1999.5,0,1999.5,Appliances,2020,20-Dec,Hon.,F,53,"Kenney, Pamella",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+canceled,2,892.5,892.5,0,892.5,Appliances,2020,20-Oct,Mrs.,F,59,"Fabiano, Dreama",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Visa,1
+order_refunded,1,549.9,0,0,0,Appliances,2020,20-Oct,Prof.,M,28,"Eaker, Lee",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0.407666927,Paypal,0
+canceled,2,166.5,166.5,0,166.5,Appliances,2020,20-Oct,Mr.,M,65,"Simoneau, Jason",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,15,Paypal,0
+canceled,2,199,199,0,199,Appliances,2020,20-Oct,Mr.,M,65,"Simoneau, Jason",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,2.285844905,Paypal,0
+complete,11,199,1990,0,1990,Appliances,2020,20-Oct,Mr.,M,65,"Simoneau, Jason",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+complete,11,199.9,1999,0,1999,Appliances,2020,20-Oct,Mr.,M,65,"Simoneau, Jason",Lake Charles,Calcasieu,Lake Charles,LA,70629,South,0,Paypal,0
+order_refunded,3,172.2,344.4,0,344.4,Appliances,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Waltersburg,Fayette,Waltersburg,PA,15488,Northeast,0,Paypal,0
+order_refunded,2,110,110,0,110,Appliances,2021,21-Mar,Mr.,M,64,"Blount, Lenny",Waltersburg,Fayette,Waltersburg,PA,15488,Northeast,0,Paypal,0
+complete,2,350,350,0,350,Appliances,2021,21-May,Mr.,M,64,"Blount, Lenny",Waltersburg,Fayette,Waltersburg,PA,15488,Northeast,0,Paypal,0
+complete,4,34.5,103.5,0,103.5,Appliances,2020,20-Oct,Mr.,M,60,"Stough, Florentino",Wisdom,Beaverhead,Wisdom,MT,59761,West,10,Paypal,0
+canceled,2,79.5,79.5,0,79.5,Appliances,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,0,Visa,1
+canceled,2,200,200,0,200,Appliances,2021,21-Jun,Ms.,F,54,"Roach, Skye",Ducor,Tulare,Ducor,CA,93218,West,0,Visa,1
+complete,3,81.5,163,0,163,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+complete,2,131,131,0,131,Appliances,2020,20-Dec,Mr.,M,52,"Nicastro, Emile",Brasstown,Clay,Brasstown,NC,28902,South,0,Visa,1
+canceled,2,2946,2946,0,2946,Appliances,2020,20-Oct,Mr.,M,31,"Landaverde, Gavin",Brasstown,Clay,Brasstown,NC,28902,South,3.226014582,Visa,1
